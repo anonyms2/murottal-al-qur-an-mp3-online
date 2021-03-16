@@ -8,3 +8,10 @@
  </ol>
 </p>
 <h2>Demo : <a href="https://murrotal-alquran-online.netlify.app/" style="font-weight:bold;">DEMO</a></h2>
+
+<b>Media Sosial</b>
+
+<a href="http://instagram.com/rid.wan57">Instagram</a>
+<a href="http://facebook.com/Ridwan.2408">Facebook</a>
+<a href="http://twitter.com/wan57rid">Twitter</a>
+<a href="http://garpuhnet.blogspot.com">Website</a>
