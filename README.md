@@ -1,4 +1,4 @@
 # murottal-al-qur-an-mp3-online
-aplikasi murrotal al quran 30 juz online.
+<p><b>Sebuah aplikasi murrotal al quran 30 juz online.</b></p>
 
-#Demo : <a href="https://murrotal-alquran-online.netlify.app/" style="font-weight:bold;">DEMO</a>
+<h2>Demo : <a href="https://murrotal-alquran-online.netlify.app/" style="font-weight:bold;">DEMO</a></h2>
